@@ -1,1 +1,2 @@
 # monster-attack-game
+This is a monster game that contains a few buttons to attack the monster. As it is a monster, it will also attack back at the user, and their health will be shown in a health bar. Additionally, this project includes a restart button and a fight log button to restart the game and view the details of the fight log.
